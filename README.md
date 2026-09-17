@@ -32,8 +32,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linktr.ee/LYJ_0901"><img src="https://img.shields.io/badge/Linktree-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white
-  " alt="Linktree" /></a>
+  <a href="https://linktr.ee/LYJ_0901"><img src="https://img.shields.io/badge/Linktree-%2343E55E?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" /></a>
   <a href="https://instagram.com/yijian_0901"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://threads.com/@yijian_0901"><img src="https://img.shields.io/badge/threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
   <a href="https://open.spotify.com/user/7esype67f6bnwrnbp3if0q8jt?si=AvvpcbmxRYSAtwzwrtvlIw"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify" /></a>
